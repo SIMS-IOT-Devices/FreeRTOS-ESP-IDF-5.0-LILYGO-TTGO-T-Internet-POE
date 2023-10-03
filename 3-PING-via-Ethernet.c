@@ -188,7 +188,6 @@ void wifi_connection()
 
 void app_main(void)
 {
-    nvs_flash_init();
     // wifi_connection();
     ethernet_connection_POE();
 
