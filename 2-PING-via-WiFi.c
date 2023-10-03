@@ -114,7 +114,6 @@ void wifi_connection()
 void app_main(void)
 {
     nvs_flash_init();
-    esp_event_loop_create_default();
     wifi_connection();
 
     vTaskDelay(5000 / portTICK_PERIOD_MS);
