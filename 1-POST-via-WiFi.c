@@ -93,7 +93,6 @@ void server_initiation()
 
 void app_main(void)
 {
-    nvs_flash_init();
     wifi_connection();
     server_initiation();
 }
