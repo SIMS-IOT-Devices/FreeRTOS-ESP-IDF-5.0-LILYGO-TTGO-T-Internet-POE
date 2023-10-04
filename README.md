@@ -4,4 +4,4 @@ LILYGO TTGO T-Internet-POE board connection to the internet via WiFi and Etherne
 2 - PING via WiFi connection on LILYGO TTGO T-Internet-POE board <br>
 3 - PING via Ethernet connection on LILYGO TTGO T-Internet-POE board  <br>
 4 - POST via Ethernet connection on LILYGO TTGO T-Internet-POE board  <br><br>
-YouTube Playlist: [https://studio.youtube.com/playlist/PLgrKXQgo8LPsVKZOebqgc-bup6PLqssik/videos](https://www.youtube.com/watch?v=N56O3MMn7tg&list=PLgrKXQgo8LPsVKZOebqgc-bup6PLqssik)https://www.youtube.com/watch?v=N56O3MMn7tg&list=PLgrKXQgo8LPsVKZOebqgc-bup6PLqssik <br>
+YouTube Playlist: https://www.youtube.com/watch?v=N56O3MMn7tg&list=PLgrKXQgo8LPsVKZOebqgc-bup6PLqssik <br>
